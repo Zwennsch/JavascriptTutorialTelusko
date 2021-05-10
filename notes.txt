@@ -1,0 +1,11 @@
+BASICS
+- you don't have to put a ';' at the end of a line/command
+Variables
+- you don't have to give datatype in front of a variable name
+- you can just do ' name = value '
+- but normally /better to use 'let' -> let num = 2 +4
+- you cannot declare a variable a second time! 
+- variable names can't have numbers at the first place
+- you can use & and _ as the only special characters in variable names
+Constants
+- use const keyword for 'variables' that are constant
