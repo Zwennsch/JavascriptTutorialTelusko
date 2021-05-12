@@ -9,3 +9,13 @@ Variables
 - you can use & and _ as the only special characters in variable names
 Constants
 - use const keyword for 'variables' that are constant
+------------------------------------------------------
+DATATYPES
+- primitve dt's are: Number, String, Boolean, Null, Undefined, Symbol
+- object dt's are all other things
+- number can take up to e^308 big
+- BigInt is a subtype of number
+- floating point numbers are also of type number
+- use underscore to make things readable : 10_004_000
+- infinity is a subtype of number / even -infinity exists
+- use 'n" after the number to mark it as BigInt
