@@ -11,6 +11,7 @@ Constants
 - use const keyword for 'variables' that are constant
 ------------------------------------------------------
 DATATYPES
+01
 - primitve dt's are: Number, String, Boolean, Null, Undefined, Symbol
 - object dt's are all other things
 - number can take up to e^308 big
@@ -19,3 +20,7 @@ DATATYPES
 - use underscore to make things readable : 10_004_000
 - infinity is a subtype of number / even -infinity exists
 - use 'n" after the number to mark it as BigInt
+02:
+- NaN means not a number
+- NaN is of type number!?
+----------------------------------------------------------
