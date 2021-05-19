@@ -23,4 +23,11 @@ DATATYPES
 02:
 - NaN means not a number
 - NaN is of type number!?
+03: Type Conversion-Type Coercion
+- to convert from Number to String use String(234)
+- to convert from String to Number use Number("234")
+- for coercion see the file 03_typeConversion
+- if you convert a Number into a Boolean you will get "true" as a value, only for 0,-0,null,0n,undefined and NaN you'll get "false"
+
 ----------------------------------------------------------
+
