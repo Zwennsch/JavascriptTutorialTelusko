@@ -30,4 +30,12 @@ DATATYPES
 - if you convert a Number into a Boolean you will get "true" as a value, only for 0,-0,null,0n,undefined and NaN you'll get "false"
 07?: logical operators
 - & is used for bitwise operators, && is used for comparison
+______________________________________
+12: conditionals: if/else
+- it is good practice to put a ; at the end of a statement
+- by default every condition has only one statement
+- otherwise use curly brackets like in java
+14: switch statement
+- like in java you have to use break to get out of the statement; same as in java
+15: template litera
 
