@@ -38,4 +38,9 @@ ______________________________________
 14: switch statement
 - like in java you have to use break to get out of the statement; same as in java
 15: template litera
+-----------------------------
+16: Loops
+- there a 3 different types of loops: while, do while, for
+- while is exactly like in java
+- do... while first executes the block and then checks the condition
 
